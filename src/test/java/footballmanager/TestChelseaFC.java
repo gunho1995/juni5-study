@@ -17,4 +17,10 @@ public class TestChelseaFC {
     void testInputVal(){
 
     }
+
+    @Test
+    @DisplayName("예외 값 테스트")
+    void testException(){
+
+    }
 }
